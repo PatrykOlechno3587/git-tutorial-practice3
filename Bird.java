@@ -5,6 +5,7 @@ public class Bird {
         String s = "Stork";
         String a = "Sroka";
         String p = "Pstrąg";
+        String f = "Sielawa";
         int i = 10;
         int b = 20;
         int c = 30;
