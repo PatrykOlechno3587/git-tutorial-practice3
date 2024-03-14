@@ -3,6 +3,7 @@ public class Bird {
         System.out.println("Bird");
 
         String s = "Stork";
+        String a = "Sroka";
         String p = "Pstrąg";
         int i = 10;
         int b = 20;
